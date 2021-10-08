@@ -1,0 +1,6 @@
+name: python-tut-env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
